@@ -17,9 +17,6 @@ https://nodemailer.com/about/
 ** EMAIL JS
 https://www.emailjs.com/
 
-============================== CONNECTS WITH ME ========================
-INSTAGRAM: https://www.instagram.com/dev_shahriar/
-YOUTUBE: https://www.youtube.com/
-FACEBOOK: https://www.facebook.com/shahriar.sajeeb.16
+
 
 
